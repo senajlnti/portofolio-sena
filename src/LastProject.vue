@@ -7,7 +7,7 @@
             <div style="width: 30%; background: rgb(27, 27, 71); height: 5px; margin: auto;"></div>
         </div>
         <br>
-        <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4">
             <div class="image-container">
                 <img class="h-auto max-w-full rounded-lg" src="./assets/img/lastproject1.png" alt="Juara 1 Lomba Musikalisasi Puisi">
                 <div class="overlay-text">
