@@ -24,7 +24,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
         <div class="flex flex-col justify-center">
             <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-dark-900 md:text-5xl lg:text-6xl dark:text-white">Tentang Saya</h1>
             <p class="mb-8 text-lg font-normal text-dark-500 lg:text-xl dark:text-dark-400">Halo nama saya Sena Julianti, lulusan Smk Assalaam Bandung dengan Jurusan Rekayasa Perangkat Lunak.
-                Mempunyai kepribadian yang Tangguh, Disiplin, Mandiri dan mampu bekerja secara tim maupun individu.Selain itu, saya juga menyukai Desain dan senang belajar hal-hal baru.
+                Memiliki kepribadian yang Tangguh, Disiplin, Mandiri dan mampu bekerja secara tim maupun individu.Selain itu, saya juga menyukai Desain dan senang belajar hal-hal baru.
             </p>          
         </div>
         <div>
