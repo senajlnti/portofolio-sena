@@ -41,7 +41,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
     <!-- contact -->    
     <center>
 <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-  <img src="./assets/img" style="width: 200px;">
+  <img src="https://th.bing.com/th/id/R.4215d06a0ba187367801890e0b26f79d?rik=kBeXD76aimx9eg&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_386133.png&ehk=uQjI6mpqwp8ApclPDI6CTp8vVmrKHcRGiUDF0EHiAUs%3d&risl=&pid=ImgRaw&r=0" style="width: 200px;">
   <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"></h5>
     <p class="font-normal text-gray-700 dark:text-gray-400"></p>
     <div>
